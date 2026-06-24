@@ -203,7 +203,7 @@ I'm available for freelance and contract engagements in:
 - AI trading systems and strategy automation
 - Full-stack Web3 application development
 
-📧 **dharmendra.baghel@gmail.com** &nbsp;|&nbsp; 📞 **+91 9617184888**
+📧 **dharmendra.baghel@gmail.com** &nbsp;
 
 ---
 
